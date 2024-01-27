@@ -1,1 +1,2 @@
-console.log("learning git");
+console.log("learning gits");
+console.log("devops update");
