@@ -1,2 +1,2 @@
 console.log("uploading to GitHub...");
-console.log("v2");
+console.log("v3");
